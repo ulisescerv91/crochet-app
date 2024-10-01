@@ -1,0 +1,442 @@
+[
+    {
+        "symbol": "O",
+        "nombreIngles": "Magic ring",
+        "abreviatura": "magic ring",
+        "nombreEspanol": "Anillo mágico",
+        "image": "images/magic_ring.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Chain",
+        "abreviatura": "ch",
+        "nombreEspanol": "Cadena",
+        "image": "images/chain.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Slip stitch",
+        "abreviatura": "slst",
+        "nombreEspanol": "Punto deslizado",
+        "image": "images/slip_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "X",
+        "nombreIngles": "Single crochet",
+        "abreviatura": "sc",
+        "nombreEspanol": "Punto bajo",
+        "image": "images/single_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "X",
+        "nombreIngles": "Extended single crochet",
+        "abreviatura": "esc",
+        "nombreEspanol": "Punto bajo extendido",
+        "image": "images/extended_single_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Half double crochet",
+        "abreviatura": "hdc",
+        "nombreEspanol": "Media vareta",
+        "image": "images/half_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Double crochet",
+        "abreviatura": "dc",
+        "nombreEspanol": "Vareta",
+        "image": "images/double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Extended double crochet",
+        "abreviatura": "edc",
+        "nombreEspanol": "Vareta extendida",
+        "image": "images/extended_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "h",
+        "nombreIngles": "Half treble crochet",
+        "abreviatura": "htr",
+        "nombreEspanol": "Media doble vareta",
+        "image": "images/half_treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Treble crochet",
+        "abreviatura": "tr",
+        "nombreEspanol": "Doble vareta",
+        "image": "images/treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Extended treble crochet",
+        "abreviatura": "etr",
+        "nombreEspanol": "Doble vareta extendida",
+        "image": "images/extended_treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Double treble crochet",
+        "abreviatura": "dtr",
+        "nombreEspanol": "Triple vareta",
+        "image": "images/double_treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "T",
+        "nombreIngles": "Triple treble crochet",
+        "abreviatura": "ttr",
+        "nombreEspanol": "Cuádruple vareta",
+        "image": "images/triple_treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "HB",
+        "nombreIngles": "Herringbone double crochet",
+        "abreviatura": "HBdc",
+        "nombreEspanol": "Vareta espiga",
+        "image": "images/herringbone_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "Spike",
+        "nombreIngles": "Spike stitch",
+        "abreviatura": "spike-dc, spike-hdc",
+        "nombreEspanol": "Punto espiga",
+        "image": "images/spike_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Popcorn stitch",
+        "abreviatura": "x-dc-pc",
+        "nombreEspanol": "Punto palomita",
+        "image": "images/popcorn_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Bobble stitch with double crochet stitches",
+        "abreviatura": "x-dc-bobble",
+        "nombreEspanol": "Punto bodoque con varetas",
+        "image": "images/bobble_stitch_dc.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Bobble stitch with treble crochet stitches",
+        "abreviatura": "x-tr-bobble",
+        "nombreEspanol": "Punto bodoque con dobles varetas",
+        "image": "images/bobble_stitch_tr.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Puff stitch",
+        "abreviatura": "3-puff, 4-puff",
+        "nombreEspanol": "Punto mota",
+        "image": "images/puff_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Single crochet 2 stitches together",
+        "abreviatura": "sc2tog",
+        "nombreEspanol": "Punto bajo 2 puntos juntos",
+        "image": "images/sc2tog.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Single crochet 3 stitches together",
+        "abreviatura": "sc3tog",
+        "nombreEspanol": "Punto bajo 3 puntos juntos",
+        "image": "images/sc3tog.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Double crochet 3 stitches together",
+        "abreviatura": "dc3tog",
+        "nombreEspanol": "Vareta 3 puntos juntos",
+        "image": "images/dc3tog.png",
+        "video": ""
+    },
+    {
+        "symbol": "---",
+        "nombreIngles": "Picot stitch",
+        "abreviatura": "ch-3-picot",
+        "nombreEspanol": "Punto picot",
+        "image": "images/picot_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "V",
+        "nombreIngles": "V-stitch",
+        "abreviatura": "v-stitch",
+        "nombreEspanol": "Punto V",
+        "image": "images/v_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "Tall V",
+        "nombreIngles": "Tall V-stitch",
+        "abreviatura": "tall v-stitch",
+        "nombreEspanol": "Punto V alto",
+        "image": "images/tall_v_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Back loops only",
+        "abreviatura": "BLO",
+        "nombreEspanol": "Solo lazo trasero",
+        "image": "images/back_loops_only.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Front loops only",
+        "abreviatura": "FLO",
+        "nombreEspanol": "Solo lazo delantero",
+        "image": "images/front_loops_only.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Back post",
+        "abreviatura": "BP",
+        "nombreEspanol": "Punto por detrás del poste",
+        "image": "images/back_post.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Front post",
+        "abreviatura": "FP",
+        "nombreEspanol": "Punto por delante del poste",
+        "image": "images/front_post.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Crochet in third loop",
+        "abreviatura": "in third loop",
+        "nombreEspanol": "Tejer en el tercer lazo",
+        "image": "images/crochet_in_third_loop.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Crochet in back stitch",
+        "abreviatura": "back stitch",
+        "nombreEspanol": "Tejer en el punto trasero",
+        "image": "images/crochet_in_back_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Surface slip stitch",
+        "abreviatura": "surface slst",
+        "nombreEspanol": "Punto deslizado de superficie",
+        "image": "images/surface_slip_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Back post single crochet",
+        "abreviatura": "BPsc",
+        "nombreEspanol": "Punto bajo por detrás del poste",
+        "image": "images/back_post_single_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Front post single crochet",
+        "abreviatura": "FPsc",
+        "nombreEspanol": "Punto bajo por delante del poste",
+        "image": "images/front_post_single_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Single crochet in back loops only",
+        "abreviatura": "BLO sc",
+        "nombreEspanol": "Punto bajo solo en lazo trasero",
+        "image": "images/blo_sc.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Single crochet in front loops only",
+        "abreviatura": "FLO sc",
+        "nombreEspanol": "Punto bajo solo en lazo delantero",
+        "image": "images/flo_sc.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Back post half double crochet",
+        "abreviatura": "BPhdc",
+        "nombreEspanol": "Media vareta por detrás del poste",
+        "image": "images/back_post_half_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Front post half double crochet",
+        "abreviatura": "FPhdc",
+        "nombreEspanol": "Media vareta por delante del poste",
+        "image": "images/front_post_half_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Half double crochet in back loops only",
+        "abreviatura": "BLO hdc",
+        "nombreEspanol": "Media vareta solo en lazo trasero",
+        "image": "images/blo_hdc.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Half double crochet in front loops only",
+        "abreviatura": "FLO hdc",
+        "nombreEspanol": "Media vareta solo en lazo delantero",
+        "image": "images/flo_hdc.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Back post double crochet",
+        "abreviatura": "BPdc",
+        "nombreEspanol": "Vareta por detrás del poste",
+        "image": "images/back_post_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Front post double crochet",
+        "abreviatura": "FPdc",
+        "nombreEspanol": "Vareta por delante del poste",
+        "image": "images/front_post_double_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Double crochet in back loops only",
+        "abreviatura": "BLO dc",
+        "nombreEspanol": "Vareta solo en lazo trasero",
+        "image": "images/blo_dc.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Double crochet in front loops only",
+        "abreviatura": "FLO dc",
+        "nombreEspanol": "Vareta solo en lazo delantero",
+        "image": "images/flo_dc.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Back post treble crochet",
+        "abreviatura": "BPtr",
+        "nombreEspanol": "Doble vareta por detrás del poste",
+        "image": "images/back_post_treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Front post treble crochet",
+        "abreviatura": "FPtr",
+        "nombreEspanol": "Doble vareta por delante del poste",
+        "image": "images/front_post_treble_crochet.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Treble crochet in back loops only",
+        "abreviatura": "BLO tr",
+        "nombreEspanol": "Doble vareta solo en lazo trasero",
+        "image": "images/blo_tr.png",
+        "video": ""
+    },
+    {
+        "symbol": "→",
+        "nombreIngles": "Treble crochet in front loops only",
+        "abreviatura": "FLO tr",
+        "nombreEspanol": "Doble vareta solo en lazo delantero",
+        "image": "images/flo_tr.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Invisible join",
+        "abreviatura": "invisible join",
+        "nombreEspanol": "Unión invisible",
+        "image": "images/invisible_join.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Standing stitch",
+        "abreviatura": "standing dc, hdc",
+        "nombreEspanol": "Punto de pie",
+        "image": "images/standing_stitch.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Round",
+        "abreviatura": "Rnd",
+        "nombreEspanol": "Vuelta",
+        "image": "images/round.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Right side",
+        "abreviatura": "RS",
+        "nombreEspanol": "Lado derecho",
+        "image": "images/right_side.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Wrong side",
+        "abreviatura": "WS",
+        "nombreEspanol": "Lado revés",
+        "image": "images/wrong_side.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Stitch / stitches",
+        "abreviatura": "st",
+        "nombreEspanol": "Punto / puntos",
+        "image": "images/stitches.png",
+        "video": ""
+    },
+    {
+        "symbol": "—",
+        "nombreIngles": "Yarn over",
+        "abreviatura": "yo",
+        "nombreEspanol": "Hilo sobre",
+        "image": "images/yarn_over.png",
+        "video": ""
+    }
+]

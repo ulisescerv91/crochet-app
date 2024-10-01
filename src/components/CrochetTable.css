@@ -1,0 +1,190 @@
+/* src/components/CrochetTable.css */
+
+.crochet-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f3e5f5;
+    /* Cambiado a un tono morado claro */
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    /* Sombra para efecto wow */
+}
+
+.crochet-table th,
+.crochet-table td {
+    border: 1px solid #ddd;
+    padding: 12px;
+    text-align: center;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+    /* Transición suave */
+}
+
+.crochet-table th {
+    background-color: #d1c4e9;
+    /* Cambiado a un tono morado */
+    color: #333;
+    font-size: 16px;
+    /* Tamaño de fuente más grande */
+    text-transform: uppercase;
+    /* Texto en mayúsculas */
+}
+
+.crochet-table tr:hover {
+    background-color: #f1f1f1;
+    /* Color de fondo más claro al pasar el ratón */
+}
+
+.crochet-image {
+    /* width: 50px; */
+    height: 100px;
+    object-fit: contain;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+    /* Transición suave */
+}
+
+.crochet-image:hover {
+    transform: scale(1.1);
+    /* Efecto de zoom al pasar el ratón */
+}
+
+/* Responsive Design */
+@media screen and (max-width: 768px) {
+
+    .crochet-table th,
+    .crochet-table td {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .crochet-image {
+        width: 40px;
+        height: 40px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+
+    .crochet-table,
+    .crochet-table thead,
+    .crochet-table tbody,
+    .crochet-table th,
+    .crochet-table td,
+    .crochet-table tr {
+        display: block;
+    }
+
+    .crochet-table tr {
+        margin-bottom: 15px;
+    }
+
+    .crochet-table td {
+        text-align: center;
+        padding-left: 50%;
+        position: relative;
+    }
+
+    .crochet-table td::before {
+        content: attr(data-label);
+        position: absolute;
+        left: 0;
+        width: 50%;
+        padding-left: 15px;
+        font-weight: bold;
+        text-align: left;
+    }
+}
+
+/* Estilos para el Modal */
+.Modal {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    right: auto;
+    bottom: auto;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 500px;
+    width: 90%;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+    animation: fadeIn 0.5s ease;
+    /* Animación de entrada */
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+.Overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.75);
+    animation: fadeIn 0.5s ease;
+    /* Animación de entrada */
+}
+
+.modal-image {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-bottom: 20px;
+    border-radius: 4px;
+    transition: transform 0.3s ease;
+    /* Transición suave */
+}
+
+.modal-image:hover {
+    transform: scale(1.1);
+    /* Efecto de zoom al pasar el ratón */
+}
+
+.Modal button {
+    padding: 10px 20px;
+    background-color: #7e57c2;
+    /* Cambiado a un tono morado */
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    /* Transición suave */
+}
+
+.Modal button:hover {
+    background-color: #5e35b1;
+    /* Cambiado a un tono morado más oscuro */
+}
+
+/* Enlaces */
+a {
+    color: #7e57c2;
+    /* Cambiado a un tono morado */
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+a:hover {
+    color: #5e35b1;
+    /* Cambiado a un tono morado más oscuro */
+    text-decoration: underline;
+}
+
+a i {
+    margin-right: 5px;
+}
