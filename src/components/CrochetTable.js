@@ -2,9 +2,6 @@
 import React from 'react';
 import './CrochetTable.css';
 
-ReactModal.setAppElement('#root'); // Importante para accesibilidad
-
-const ITEMS_PER_PAGE = 10;
 
 const CrochetTable = ({ puntos }) => {
 
