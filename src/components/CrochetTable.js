@@ -1,6 +1,5 @@
 // src/components/CrochetTable.js
 import React from 'react';
-import ReactModal from 'react-modal';
 import './CrochetTable.css';
 
 ReactModal.setAppElement('#root'); // Importante para accesibilidad
